@@ -143,5 +143,5 @@ private static final String BASE_URL = "https://devapigw.vidalhealthtpa.com/srm-
 
 ## Author
 
-Aryan Gupta — SRM Institute of Science and Technology  
-Registration No: 2024CS101
+Prateek — SRM Institute of Science and Technology  
+Registration No: RA2311003030289
