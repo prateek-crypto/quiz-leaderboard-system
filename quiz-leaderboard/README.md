@@ -135,7 +135,7 @@ This project uses **zero third-party dependencies**. Everything — HTTP calls, 
 If you want to change the registration number or base URL, open `QuizApp.java` and edit the constants at the top:
 
 ```java
-private static final String REG_NO   = "2024CS101";
+private static final String REG_NO   = "RA2311003030289";
 private static final String BASE_URL = "https://devapigw.vidalhealthtpa.com/srm-quiz-task";
 ```
 
